@@ -8,7 +8,7 @@
     "cryptr": "^2.0.0",
     "curl": "^0.1.4",
     "lib": "^3.0.1",
-    "mongodb": "^3.0.1",
+    "mongodb": "^3.1.13",
     "mongoose": "^4.13.9",
     "request": "^2.81.0",
     "stellar-base": "^0.7.6",
