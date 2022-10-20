@@ -9,7 +9,7 @@
     "curl": "^0.1.4",
     "lib": "^3.0.1",
     "mongodb": "^3.0.1",
-    "mongoose": "^4.13.9",
+    "mongoose": "^4.13.21",
     "request": "^2.81.0",
     "stellar-base": "^0.7.6",
     "stellar-sdk": "^0.8.0",
